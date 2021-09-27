@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TestSuite" time="14.198" tests="2" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TestSuite" time="12.89" tests="2" errors="0" skipped="0" failures="0">
   <properties>
     <property name="sun.desktop" value="windows"/>
     <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
@@ -18,7 +18,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="IN"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-11.0.10\bin"/>
-    <property name="sun.java.command" value="C:\Users\riju_\AppData\Local\Temp\surefire13915070297346141981\surefirebooter15573608056260215248.jar C:\Users\riju_\AppData\Local\Temp\surefire13915070297346141981 2021-09-27T08-52-10_529-jvmRun1 surefire11587096911391401585tmp surefire_012025182285880904656tmp"/>
+    <property name="sun.java.command" value="C:\Users\riju_\AppData\Local\Temp\surefire2733804951150630944\surefirebooter11915140161938873875.jar C:\Users\riju_\AppData\Local\Temp\surefire2733804951150630944 2021-09-27T08-54-57_897-jvmRun1 surefire11945050209798602610tmp surefire_014861446772820578040tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="C:\Users\riju_\git\SampleJenkins\JenkinsDemo\target\test-classes;C:\Users\riju_\git\SampleJenkins\JenkinsDemo\target\classes;C:\Users\riju_\.m2\repository\junit\junit\3.8.1\junit-3.8.1.jar;C:\Users\riju_\.m2\repository\org\seleniumhq\selenium\selenium-server\3.141.59\selenium-server-3.141.59.jar;C:\Users\riju_\.m2\repository\org\seleniumhq\selenium\selenium-java\3.141.59\selenium-java-3.141.59.jar;C:\Users\riju_\.m2\repository\org\seleniumhq\selenium\selenium-api\3.141.59\selenium-api-3.141.59.jar;C:\Users\riju_\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\3.141.59\selenium-edge-driver-3.141.59.jar;C:\Users\riju_\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\3.141.59\selenium-firefox-driver-3.141.59.jar;C:\Users\riju_\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\3.141.59\selenium-ie-driver-3.141.59.jar;C:\Users\riju_\.m2\repository\org\seleniumhq\selenium\selenium-opera-driver\3.141.59\selenium-opera-driver-3.141.59.jar;C:\Users\riju_\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\3.141.59\selenium-remote-driver-3.141.59.jar;C:\Users\riju_\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\3.141.59\selenium-safari-driver-3.141.59.jar;C:\Users\riju_\.m2\repository\org\seleniumhq\selenium\selenium-support\3.141.59\selenium-support-3.141.59.jar;C:\Users\riju_\.m2\repository\com\beust\jcommander\1.72\jcommander-1.72.jar;C:\Users\riju_\.m2\repository\net\bytebuddy\byte-buddy\1.8.15\byte-buddy-1.8.15.jar;C:\Users\riju_\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar;C:\Users\riju_\.m2\repository\com\google\guava\guava\25.0-jre\guava-25.0-jre.jar;C:\Users\riju_\.m2\repository\com\google\code\findbugs\jsr305\1.3.9\jsr305-1.3.9.jar;C:\Users\riju_\.m2\repository\org\checkerframework\checker-compat-qual\2.0.0\checker-compat-qual-2.0.0.jar;C:\Users\riju_\.m2\repository\com\google\errorprone\error_prone_annotations\2.1.3\error_prone_annotations-2.1.3.jar;C:\Users\riju_\.m2\repository\com\google\j2objc\j2objc-annotations\1.1\j2objc-annotations-1.1.jar;C:\Users\riju_\.m2\repository\org\codehaus\mojo\animal-sniffer-annotations\1.14\animal-sniffer-annotations-1.14.jar;C:\Users\riju_\.m2\repository\net\jcip\jcip-annotations\1.0\jcip-annotations-1.0.jar;C:\Users\riju_\.m2\repository\org\seleniumhq\selenium\jetty-repacked\9.4.12.v20180830\jetty-repacked-9.4.12.v20180830.jar;C:\Users\riju_\.m2\repository\com\squareup\okhttp3\okhttp\3.11.0\okhttp-3.11.0.jar;C:\Users\riju_\.m2\repository\com\squareup\okio\okio\1.14.0\okio-1.14.0.jar;C:\Users\riju_\.m2\repository\javax\servlet\javax.servlet-api\3.1.0\javax.servlet-api-3.1.0.jar;C:\Users\riju_\.m2\repository\org\yaml\snakeyaml\1.19\snakeyaml-1.19.jar;C:\Users\riju_\.m2\repository\org\testng\testng\7.4.0\testng-7.4.0.jar;C:\Users\riju_\.m2\repository\org\webjars\jquery\3.5.1\jquery-3.5.1.jar;C:\Users\riju_\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\3.141.59\selenium-chrome-driver-3.141.59.jar;C:\Users\riju_\.m2\repository\io\github\bonigarcia\webdrivermanager\4.4.3\webdrivermanager-4.4.3.jar;C:\Users\riju_\.m2\repository\org\slf4j\slf4j-api\1.7.30\slf4j-api-1.7.30.jar;C:\Users\riju_\.m2\repository\commons-io\commons-io\2.8.0\commons-io-2.8.0.jar;C:\Users\riju_\.m2\repository\com\google\code\gson\gson\2.8.6\gson-2.8.6.jar;C:\Users\riju_\.m2\repository\org\apache\commons\commons-lang3\3.12.0\commons-lang3-3.12.0.jar;C:\Users\riju_\.m2\repository\org\apache\httpcomponents\client5\httpclient5\5.0.3\httpclient5-5.0.3.jar;C:\Users\riju_\.m2\repository\org\apache\httpcomponents\core5\httpcore5\5.0.2\httpcore5-5.0.2.jar;C:\Users\riju_\.m2\repository\org\apache\httpcomponents\core5\httpcore5-h2\5.0.2\httpcore5-h2-5.0.2.jar;C:\Users\riju_\.m2\repository\commons-codec\commons-codec\1.13\commons-codec-1.13.jar;C:\Users\riju_\.m2\repository\org\rauschig\jarchivelib\1.1.0\jarchivelib-1.1.0.jar;C:\Users\riju_\.m2\repository\org\apache\commons\commons-compress\1.20\commons-compress-1.20.jar;C:\Users\riju_\.m2\repository\org\jsoup\jsoup\1.13.1\jsoup-1.13.1.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -34,7 +34,7 @@
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="C:\Users\riju_\AppData\Local\Temp\surefire13915070297346141981\surefirebooter15573608056260215248.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\riju_\AppData\Local\Temp\surefire2733804951150630944\surefirebooter11915140161938873875.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="11.0.10+8-LTS-162"/>
@@ -61,26 +61,28 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="55.0"/>
   </properties>
-  <testcase name="TC01" classname="AutomationPracticeBDD.JenkinsDemo.AmazonTest" time="9.902">
+  <testcase name="TC01" classname="AutomationPracticeBDD.JenkinsDemo.GoogleTest" time="10.3">
     <system-out><![CDATA[Google
-Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
 ]]></system-out>
     <system-err><![CDATA[SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
 SLF4J: Defaulting to no-operation (NOP) logger implementation
 SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
-Starting ChromeDriver 93.0.4577.63 (ff5c0da2ec0adeaed5550e6c7e98417dac77d98a-refs/branch-heads/4577@{#1135}) on port 16273
+Starting ChromeDriver 93.0.4577.63 (ff5c0da2ec0adeaed5550e6c7e98417dac77d98a-refs/branch-heads/4577@{#1135}) on port 22811
 Only local connections are allowed.
-Please see httSpst:/a/rchtrionmegd riCvherr.ochmreoDmirumi.voerrg 9/3.s0.e45c7u7.r6i3t (ffy5-cc0odnas2iedce0raadetaieod5n5s5 0ef6co7er9 8s41u7gdgace7s7dti98oa-nrsef so/bnr ankche-ehepadisn/4g57 7C@{h#1r1o3m5}e)D river osna fpeo.rt 
-26790
+Please see https://chromedriver.chromium.org/security-considerations for suggestions onS kteaerptinign gC hrCohrmoemeDDrriivveer r9 3s.a0.f4e57.7
+.63 (ff5c0da2ec0adeaed5550e6c7e98417dac77d98a-refs/branch-heads/4577@{#1135}) on port 1830
 Only local connections are allowed.
 Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
 ChromeDriver was started successfully.
 ChromeDriver was started successfully.
-Sep 27, 2021 8:52:15 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+Sep 27, 2021 8:55:04 AM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFO: Detected dialect: W3C
-Sep 27, 2021 8:52:15 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+Sep 27, 2021 8:55:04 AM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFO: Detected dialect: W3C
 ]]></system-err>
   </testcase>
-  <testcase name="TC01" classname="AutomationPracticeBDD.JenkinsDemo.GoogleTest" time="12.877"/>
+  <testcase name="TC01" classname="AutomationPracticeBDD.JenkinsDemo.AmazonTest" time="11.01">
+    <system-out><![CDATA[Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+]]></system-out>
+  </testcase>
 </testsuite>
